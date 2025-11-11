@@ -2,17 +2,17 @@
 const tinderUser = {}
 
 tinderUser.id = "123abc"
-tinderUser.name = "Sammy"
+tinderUser.name = "Ronny"
 tinderUser.isLoggedIn = false
 
 // console.log(tinderUser);
 
 const regularUser = {
-    email: "some@gmail.com",
+    email: "swattik.podddar@outlook.com",
     fullname: {
         userfullname: {
-            firstname: "hitesh",
-            lastname: "choudhary"
+            firstname: "swattik",
+            lastname: "poddar"
         }
     }
 }
@@ -33,15 +33,15 @@ const obj3 = {...obj1, ...obj2}
 const users = [
     {
         id: 1,
-        email: "h@gmail.com"
+        email: "s@gmail.com"
     },
     {
         id: 1,
-        email: "h@gmail.com"
+        email: "s@gmail.com"
     },
     {
         id: 1,
-        email: "h@gmail.com"
+        email: "s@gmail.com"
     },
 ]
 
